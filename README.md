@@ -2,7 +2,7 @@
 
 The OpenFrame Project provides an empty harness chip that differs significantly from the Caravel and Caravan designs. Unlike Caravel and Caravan, which include integrated SoCs and additional features, OpenFrame offers only the essential padframe, providing users with a clean slate for their custom designs.
 
-<img width="256" alt="Screenshot 2024-06-24 at 12 53 39 PM" src="https://github.com/efabless/openframe_timer_example/assets/67271180/ff58b58b-b9c8-4d5e-b9bc-bf344355fa80">
+<img width="256" alt="Screenshot 2024-06-24 at 12 53 39 PM" src="https://github.com/efabless/openframe_user_project/assets/67271180/ff58b58b-b9c8-4d5e-b9bc-bf344355fa80">
 
 ## Key Characteristics of OpenFrame
 
@@ -29,7 +29,7 @@ The OpenFrame harness is ideal for those looking to implement custom SoCs or int
 2. User area of approximately 15mm².
 3. Supports digital, analog, or mixed-signal designs.
 
-# openframe_timer_example
+# openframe_user_project
 
 This example implements a simple timer and connects it to the GPIOs.
 
@@ -38,8 +38,8 @@ This example implements a simple timer and connects it to the GPIOs.
 First, clone the repository:
 
 ```bash
-git clone https://github.com/efabless/openframe_timer_example.git
-cd openframe_timer_example
+git clone https://github.com/efabless/openframe_user_project.git
+cd openframe_user_project
 ```
 
 Then, download all dependencies:
